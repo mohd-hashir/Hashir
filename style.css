@@ -1,0 +1,31 @@
+html{
+    scroll-behavior: smooth;
+}
+.logo{
+    width: 10%;
+    float: left;
+}
+.home{
+    padding-top: 8em;
+}
+.servive{
+    margin-top: 7em;
+}
+#card{
+    padding-bottom: 4.4em;
+}
+#btech{
+    padding-top: 15em;
+    padding-bottom: 10em;
+    padding-left: 2em;
+}
+#hs{
+    padding-top: 10em;
+    padding-bottom: 10em;
+    padding-left: 2em;
+}
+#sslc{
+    padding-top: 10em;
+    padding-bottom: 10em;
+    padding-left: 2em;
+}
